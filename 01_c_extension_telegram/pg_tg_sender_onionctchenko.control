@@ -1,0 +1,4 @@
+comment = 'PostgreSQL Extension for sending messages to Telegram'
+default_version = '1.0'
+module_pathname = '$libdir/pg_tg_sender_onionctchenko'
+relocatable = true
